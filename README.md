@@ -6,6 +6,6 @@ The iris dataset consists of 5 features:
 >  SepalWidth
 >  PetalLength
 >  PetalWidth
->  Species-(Iris-setosa, Iris-virginica and Iris-versicolor)
+>  Species
 
 The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas and Data Visualization Libraries.
